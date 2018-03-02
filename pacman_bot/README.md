@@ -2,8 +2,8 @@
 ## **Introduction**
 **Pacman-Bot** is a simple project that simulates the well known game of Pacman and the Ghosts. Along the way, we try to implement various AI techniques such as *searching*, *multi-agent search*, and *reinforcement learning*.  
 **Authors**:  
-1\. Gursimran Singh (2014041)  
-2\. Shubham Maheshwari (2014101)
+1\. Shubham Maheshwari (2014101)
+2\. Gursimran Singh (2014041)  
 
 
 ## **Detail Description**
